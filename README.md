@@ -6,7 +6,7 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=juyeon0312&layout=)
 
 
-
+ranking_index = (byte_count ^ size_weight) * (repo_count ^ count_weight)
 
 
 **juyeon0312/juyeon0312** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
