@@ -15,7 +15,10 @@
 ![notion](https://img.shields.io/badge/notion-000000.svg?&style=for-the-badge&logo=notion&logoColor=white)
 
 
-
 ### 🚌 Top Langs
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=juyeon0312&layout=compact)
+
+
+### 🚩 Algorithm Ranking
+[![Algorithm Ranking](https://mazassumnida.wtf/api/v2/generate_badge?boj=juyeon0312)](https://solved.ac/profile/juyeon0312)
