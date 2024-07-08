@@ -29,3 +29,6 @@ Here are some ideas to get you started:
 ![Python](https://img.shields.io/badge/python-3776AB.svg?&style=for-the-badge&logo=python&logoColor=white) ![matlab](https://img.shields.io/badge/Matlab-000000.svg?&style=for-the-badge) 
 
 **🛠️ Infra and Tools**
+
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&langs_count=8)
